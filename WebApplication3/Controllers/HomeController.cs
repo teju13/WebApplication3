@@ -17,7 +17,7 @@ namespace WebApplication3.Controllers
         {
             int a = 5;
             int b = 10;
-            int c = a + b;
+            int c = a * b;
         }
     }
 }
